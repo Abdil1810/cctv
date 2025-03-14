@@ -4,3 +4,33 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://cctv.banjarmasinkota.go.id/
 https://atcs-stream.aldilinux.my.id/hls/cR4lE7YZpE/fXK2sJj4U1/s.m3u8
+
+#EXTINF:-1 tvg-logo="https://iili.io/JMp36xI.png" group-title="NASIONAL", Simpang Gerilya
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cctv.banjarmasinkota.go.id/
+https://atcs-stream.aldilinux.my.id/hls/cR4lE7YZpE/DHizjVIP0W/s.m3u8
+
+#EXTINF:-1 tvg-logo="https://iili.io/JMp36xI.png" group-title="NASIONAL", Simpang RK Ilir
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cctv.banjarmasinkota.go.id/
+https://atcs-stream.aldilinux.my.id/hls/cR4lE7YZpE/qjtWqXluHE/s.m3u8
+
+#EXTINF:-1 tvg-logo="https://iili.io/JMp36xI.png" group-title="NASIONAL", Simpang Mulawarman
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cctv.banjarmasinkota.go.id/
+https://atcs-stream.aldilinux.my.id/hls/cR4lE7YZpE/gHaVkDVK0b/s.m3u8
+
+#EXTINF:-1 tvg-logo="https://iili.io/JMp36xI.png" group-title="NASIONAL", Simpang Veteran
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cctv.banjarmasinkota.go.id/
+https://atcs-stream.aldilinux.my.id/hls/cR4lE7YZpE/iyYLs1kYnR/s.m3u8
+
+#EXTINF:-1 tvg-logo="https://iili.io/JMp36xI.png" group-title="NASIONAL", Simpang Fly Over
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cctv.banjarmasinkota.go.id/
+https://atcs-stream.aldilinux.my.id/hls/cR4lE7YZpE/BPXG9A4gnu/s.m3u8
+
+#EXTINF:-1 tvg-logo="https://iili.io/JMp36xI.png" group-title="NASIONAL", Simpang Jafri Zam Zam
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cctv.banjarmasinkota.go.id/
+https://atcs-stream.aldilinux.my.id/hls/cR4lE7YZpE/h6Vo2yINJt/s.m3u8
